@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "grammaTitle": "は",
+        "mean": "意味",
+        "usage": "使い方",
+        "example_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam"
+    },
+    {
+        "id": 2,
+        "grammaTitle": "です",
+        "mean": "意味",
+        "usage": "使い方",
+        "example_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam"
+    },
+    {
+        "id": 3,
+        "grammaTitle": "が",
+        "mean": "意味",
+        "usage": "使い方",
+        "example_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam",
+        "example_3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, quos. Vel a ipsum odio dolor rerum! Maxime corrupti eaque provident, ratione laboriosam"
+    }
+]

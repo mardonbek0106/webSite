@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Kgoi": "食べる",
+        "Fgoi": "たべる",
+        "Ugoi": "Yemoq"
+    },
+    {
+        "id": 2,
+        "Kgoi": "飲む",
+        "Fgoi": "のむ",
+        "Ugoi": "Ichmoq"
+    },
+    {
+        "id": 3,
+        "Kgoi": "見る",
+        "Fgoi": "みる",
+        "Ugoi": "Ko'rmoq"
+    }
+]
